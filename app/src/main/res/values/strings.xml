@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RK test</string>
+    <string name="ButtonMinus">-</string>
+    <string name="ButtonPlus">+</string>
+    <string name="ButtonMultiply">*</string>
+    <string name="ButtonDivision">/</string>
+    <string name="firstline">FirstLine</string>
+    <string name="secondline">SecondLine</string>
+    <string name="thirdline">ThirdLine</string>
+</resources>
